@@ -34,7 +34,7 @@ int main() {
 }
 
 // Problem 3 -- Nested If - else condition
-// t verify user's age wether eligible for vote or not ?
+// to verify user's age wether eligible for vote or not ?
 #include <iostream>
 using namespace std;
 
